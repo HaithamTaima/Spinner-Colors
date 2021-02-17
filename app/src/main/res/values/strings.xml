@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string-array name="size">
+        <item>red</item>
+        <item>gren</item>
+        <item>pllo</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
